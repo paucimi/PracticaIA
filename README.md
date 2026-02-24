@@ -1,4 +1,4 @@
-# PracticaIA
+# ProyectoIA
 # Customer Service Chatbot / Chatbot de Asistencia al Cliente
 
 This project demonstrates a proof-of-concept for creating a Spanish customer support chatbot. We fine-tune a pre-trained language model using Quantized LoRA (QLoRA) and PEFT adapters to efficiently adapt the model for answering common customer queries.
